@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="335px" height="48px" viewBox="0 0 335 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>block_login</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" fill-opacity="0.4">
+        <g id="logic" transform="translate(-20.000000, -373.000000)" fill="#FFFFFF">
+            <g id="block_login" transform="translate(20.000000, 373.000000)">
+                <g id="Rectangle-3">
+                    <path d="M0,24 C0,10.745166 10.7431169,0 23.9915135,0 L311.008487,0 C324.258634,0 335,10.7364607 335,24 L335,0 C335,13.254834 335,34.7364607 335,48 L335,24 C335,37.254834 324.256883,48 311.008487,48 L23.9915135,48 C10.7413665,48 2.23621031e-15,37.2577484 0,24 L0,48 C0,34.745166 0,13.2591808 0,0 L0,24 Z"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
